@@ -39,6 +39,9 @@ Inserted sample data.
  Performed all 4 JOIN types.  
  Captured output of each query.
 
+ ##OUTPUT##
+ [join.docx](https://github.com/user-attachments/files/20637400/join.docx)
+
 
 
 ##  Skills Practiced
