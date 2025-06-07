@@ -40,7 +40,10 @@ Inserted sample data.
  Captured output of each query.
 
  ##OUTPUT##
- [join.docx](https://github.com/user-attachments/files/20637400/join.docx)
+ ![Image](https://github.com/user-attachments/assets/f527484a-623e-49ee-a2e5-6fa48f77cd18)
+![Image](https://github.com/user-attachments/assets/c0484b0b-43de-4dab-809c-20061b97bfbd)
+![Image](https://github.com/user-attachments/assets/6adf85df-9dc2-4aba-bd1d-ccd61b23072b)
+![Image](https://github.com/user-attachments/assets/123b9f9c-5da7-4b5e-80a6-fe1ede563526)
 
 
 
